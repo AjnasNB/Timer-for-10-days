@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.timer {
+  text-align: center;
+}
+
+.time-over {
+  text-align: center;
+  font-size: 3rem;
+  color: red;
+}
